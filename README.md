@@ -62,3 +62,6 @@ Condition is one of: `working`, `broken`, `unknown`.
 
 Shortage list columns: `item, quantity_needed, reason`
 
+> **CSV'yi Excel'de açarken:** her şey tek sütunda görünüyorsa ya da Türkçe karakterler (ş, ğ, İ) bozuk çıkıyorsa dosyayı doğrudan açma. 
+> **Veri -> Metin/CSV'den** yolunu kullan, ayırıcıyı **virgül**, dosya kodlamasını **UTF-8** olarak seç. 
+> Google Sheets bu dosyaları sorunsuz açar.
